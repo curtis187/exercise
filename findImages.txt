@@ -1,0 +1,41 @@
+./10b.PNG
+./1c.PNG
+./2e.PNG
+./3e.PNG
+./3f.PNG
+./4c.PNG
+./4f.PNG
+./4g.PNG
+./5f master.PNG
+./5f v0.0.1.PNG
+./5g.PNG
+./6b.PNG
+./6d.PNG
+./7d.PNG
+./7e.PNG
+./8.PNG
+./9.PNG
+./backup/git/exercise/img.css/1c.PNG
+./backup/git/exercise/img.css/2e.PNG
+./backup/git/exercise/img.css/3e.PNG
+./backup/git/exercise/img.css/3f.PNG
+./backup/git/exercise/img.css/4c.PNG
+./backup/git/exercise/img.css/4f.PNG
+./backup/git/exercise/img.css/4g.PNG
+./backup/git/exercise/img.css/5f master.PNG
+./backup/git/exercise/img.css/5f v0.0.1.PNG
+./backup/git/exercise/img.css/5g.PNG
+./backup/git/exercise/img.css/6b.PNG
+./backup/git/exercise/img.css/6d.PNG
+./git/exercise/img.css/1c.PNG
+./git/exercise/img.css/2e.PNG
+./git/exercise/img.css/3e.PNG
+./git/exercise/img.css/3f.PNG
+./git/exercise/img.css/4c.PNG
+./git/exercise/img.css/4f.PNG
+./git/exercise/img.css/4g.PNG
+./git/exercise/img.css/5f master.PNG
+./git/exercise/img.css/5f v0.0.1.PNG
+./git/exercise/img.css/5g.PNG
+./git/exercise/img.css/6b.PNG
+./git/exercise/img.css/6d.PNG
